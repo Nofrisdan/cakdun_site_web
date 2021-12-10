@@ -20,7 +20,7 @@ git clone https://github.com/Nofrisdan/cakdun_site_web.git
 ```
 
 # Gambar Aplikasi
-<img src="assets/doc/1.png">
+<img src="doc/1.png">
 
 
 
